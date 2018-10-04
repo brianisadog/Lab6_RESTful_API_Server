@@ -40,7 +40,7 @@ python3 lab6Test.py localhost 3000
 
 ## Authors
 
-* **Brian Sung** - *Computer Science Master student* - [LinkedIn](https://www.linkedin.com/in/brianisadog/)
+* **Brian Sung** - *Computer Science Master student* - [LinkedIn](https://www.linkedin.com/in/ohbriansung/)
 
 ## References
 * [Google Place API](https://developers.google.com/places/web-service/search)
